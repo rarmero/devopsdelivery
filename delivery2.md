@@ -1,1 +1,1 @@
-![Heroku caption](_images/heroku1.png "Heroku caption")
+![Heroku caption](heroku1.png "Heroku caption")
