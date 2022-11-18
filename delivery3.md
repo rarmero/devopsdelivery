@@ -4,9 +4,9 @@ Html page (local) ->> server : date.
                  
 Server ->> Html page : date.
 
-![client](/images/net1.png "client caption")
+![client](/images/net1.PNG "client caption")
 
-![server](/images/net2.png "server caption")
+![server](/images/net2.PNG "server caption")
 
 [source code](https://github.com/rarmero/testwebnet.git) in GitHub.
 
