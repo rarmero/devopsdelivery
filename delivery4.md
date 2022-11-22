@@ -7,7 +7,17 @@
 
 ## Run App
 
-consume a rest api hosted in elastic
+options:
+
+1. consume a rest api hosted in elastic
 
 ![client](/images/docker2.png "client caption")
+
+
+2. consume a rest api in docker
+
+
+![client](/images/docker2.png "containers caption")
+![client](/images/docker3.png "web page captions")
+
 
