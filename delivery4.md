@@ -1,5 +1,13 @@
 ## Client App php dockerized
 
+
+# docker file
+
+FROM php:8.0-apache as base
+
+COPY ./src /var/www/html
+
+
 ![doker image](/images/docker1.png "docker image caption")
 
 
@@ -18,6 +26,7 @@ options:
 
 
 ![client](/images/docker3.png "containers caption")
+
 ![client](/images/docker4.png "web page captions")
 
 
