@@ -17,7 +17,7 @@ options:
 2. consume a rest api in docker
 
 
-![client](/images/docker2.png "containers caption")
-![client](/images/docker3.png "web page captions")
+![client](/images/docker3.png "containers caption")
+![client](/images/docker4.png "web page captions")
 
 
